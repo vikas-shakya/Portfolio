@@ -1,0 +1,55 @@
+<!-- <div class="details-containers">
+          <h2 class="experience-sub-title">Learning</h2>
+          <div class="article-container">
+            <article>
+              <img
+                src="./assets//pending.jpg"
+                alt="experience icon"
+                class="icon"
+              />
+              <div>
+                <h3>React</h3>
+              </div>
+            </article>
+            <article>
+              <img
+                src="./assets//pending.jpg"
+                alt="experience icon"
+                class="icon"
+              />
+              <div>
+                <h3>NODE js</h3>
+              </div>
+            </article>
+            <article>
+              <img
+                src="./assets//pending.jpg"
+                alt="experience icon"
+                class="icon"
+              />
+              <div>
+                <h3>Express js</h3>
+              </div>
+            </article>
+            <article>
+              <img
+                src="./assets//pending.jpg"
+                alt="experience icon"
+                class="icon"
+              />
+              <div>
+                <h3>PostgreSQl</h3>
+              </div>
+            </article>
+            <article>
+              <img
+                src="./assets//pending.jpg"
+                alt="experience icon"
+                class="icon"
+              />
+              <div>
+                <h3>BlockChain</h3>
+              </div>
+            </article>
+          </div>
+        </div> -->
