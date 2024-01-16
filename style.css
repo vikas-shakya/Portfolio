@@ -35,7 +35,11 @@ nav,
 nav {
   justify-content: space-around;
   align-items: center;
-  height: 17vh;
+  height: 7vh;
+  background-color: #ebe4e4d5;
+  position: fixed;
+  z-index: 1;
+  width: 100%;
 }
 
 .nav-links {
@@ -175,8 +179,8 @@ section {
 
 .section__pic-container .profile_picture {
   border-radius: 50%;
-  background: #f3e7e7;
-  box-shadow: 37px 37px 9px #bebebe, -37px -37px 9px #ffffff;
+  background: #f3e7e7b8;
+  box-shadow: 37px 37px 9px #90909092, -37px -37px 9px #ffffff;
 }
 .pic_container {
   border-radius: 50%;
@@ -318,8 +322,8 @@ section {
 }
 .section__pic-container .about-pic {
   border-radius: 50px;
-  background: #e6e6e6;
-  box-shadow: -20px -20px 60px #c4c4c4, 20px 20px 60px #ffffff;
+  background: #e0e0e0;
+  box-shadow: 38px 38px 76px #bebebe, -38px -38px 76px #ffffff;
 }
 
 /* Experience */
@@ -386,3 +390,5 @@ article .icon {
   color: black;
   border-color: rgb(163, 163, 163);
 }
+
+/* Contact */
